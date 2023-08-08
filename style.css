@@ -4,11 +4,15 @@
   box-sizing: border-box;
 }
 
+body{
+  background-image: url('https://wallpapers.com/images/hd/pikachu-background-i0l8ary6sgfx9gj5.jpg');
+}
+
 .pokemon-card {
   height: auto;
   width: 400px;
   padding-top: 0px;
-  margin: 50px auto;
+  margin: 200px auto;
   background: linear-gradient(135deg, #ad40fa 0%, #a9ef86 100%);
   border: 2px solid grey;
   border-radius: 10px;
