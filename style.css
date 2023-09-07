@@ -6,6 +6,9 @@
 
 body{
   background-image: url('https://wallpapers.com/images/hd/pikachu-background-i0l8ary6sgfx9gj5.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .pokemon-card {
